@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="split-full-final.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg5110"
+   version="1.1"
+   viewBox="0 0 420 594"
+   height="594mm"
+   width="420mm">
+  <defs
+     id="defs5104" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="830"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="574.2859"
+     inkscape:cx="668.57164"
+     inkscape:zoom="0.60463081"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5107">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-38.89999"
+       y="163.3206"
+       id="text1889"><tspan
+         sodipodi:role="line"
+         id="tspan1887"
+         x="-38.89999"
+         y="163.3206"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="109.40665"
+       y="3.471184"
+       id="text1893"><tspan
+         sodipodi:role="line"
+         id="tspan1891"
+         x="109.40665"
+         y="3.471184"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="18.76018"
+       y="19.091486"
+       id="text1897"><tspan
+         sodipodi:role="line"
+         id="tspan1895"
+         x="18.76018"
+         y="19.091486"
+         style="stroke-width:0.264583">Top plate left:</tspan><tspan
+         sodipodi:role="line"
+         x="18.76018"
+         y="24.383148"
+         style="stroke-width:0.264583"
+         id="tspan1899">Width: 157.165mm</tspan><tspan
+         sodipodi:role="line"
+         x="18.76018"
+         y="29.67481"
+         style="stroke-width:0.264583"
+         id="tspan4339">Height: 95.252mm</tspan><tspan
+         sodipodi:role="line"
+         x="18.76018"
+         y="34.966473"
+         style="stroke-width:0.264583"
+         id="tspan4341">Surface Area: 7724.532mm2</tspan><tspan
+         sodipodi:role="line"
+         x="18.76018"
+         y="40.258137"
+         style="stroke-width:0.264583"
+         id="tspan4343">Cut Path Length: 2608.832mm</tspan><tspan
+         sodipodi:role="line"
+         x="18.76018"
+         y="45.549797"
+         style="stroke-width:0.264583"
+         id="tspan1905" /></text>
+    <g
+       transform="translate(11.558252,44.835144)"
+       id="g4248">
+      <g
+         style="stroke:#0000ff"
+         id="g2584">
+        <polygon
+           id="polygon1909"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="151.244,97.495 151.244,91.226 152.069,91.226 152.069,88.426 151.244,88.426 151.244,85.196 144.494,85.196 144.494,88.426 142.969,88.426 142.969,83.726 128.968,83.726 128.968,88.426 127.444,88.426 127.444,85.196 120.694,85.196 120.694,88.426 119.869,88.426 119.869,91.226 120.694,91.226 120.694,97.495 122.419,97.495 122.419,98.696 125.719,98.696 125.719,97.495 127.444,97.495 127.444,93.025 128.968,93.025 128.968,97.726 142.969,97.726 142.969,93.025 144.494,93.025 144.494,97.495 146.219,97.495 146.219,98.696 149.519,98.696 149.519,97.495 " />
+        <polygon
+           id="polygon1911"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="112.013,97.726 112.013,83.726 98.013,83.726 98.013,97.726 " />
+        <polygon
+           id="polygon1913"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="90.582,97.726 90.582,83.726 76.582,83.726 76.582,97.726 " />
+        <polygon
+           id="polygon1915"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="66.769,97.726 66.769,83.726 52.769,83.726 52.769,97.726 " />
+        <polygon
+           id="polygon1917"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="42.957,97.726 42.957,83.726 28.957,83.726 28.957,97.726 " />
+        <polygon
+           id="polygon1919"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="21.526,97.726 21.526,83.726 7.526,83.726 7.526,97.726 " />
+        <polygon
+           id="polygon1921"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="60.757,78.446 60.757,72.176 61.582,72.176 61.582,69.376 60.757,69.376 60.757,66.146 54.007,66.146 54.007,69.376 52.482,69.376 52.482,64.676 38.482,64.676 38.482,69.376 36.957,69.376 36.957,66.146 30.207,66.146 30.207,69.376 29.382,69.376 29.382,72.176 30.207,72.176 30.207,78.446 31.932,78.446 31.932,79.646 35.232,79.646 35.232,78.446 36.957,78.446 36.957,73.976 38.482,73.976 38.482,78.676 52.482,78.676 52.482,73.976 54.007,73.976 54.007,78.446 55.732,78.446 55.732,79.646 59.032,79.646 59.032,78.446 " />
+        <polygon
+           id="polygon1923"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="159.638,78.676 159.638,64.676 145.638,64.676 145.638,78.676 " />
+        <polygon
+           id="polygon1925"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="140.588,78.676 140.588,64.676 126.588,64.676 126.588,78.676 " />
+        <polygon
+           id="polygon1927"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="121.538,78.676 121.538,64.676 107.538,64.676 107.538,78.676 " />
+        <polygon
+           id="polygon1929"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="102.488,78.676 102.488,64.676 88.488,64.676 88.488,78.676 " />
+        <polygon
+           id="polygon1931"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="83.438,78.676 83.438,64.676 69.438,64.676 69.438,78.676 " />
+        <polygon
+           id="polygon1933"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="21.526,78.676 21.526,64.676 7.526,64.676 7.526,78.676 " />
+        <polygon
+           id="polygon1935"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="150.113,59.626 150.113,45.626 136.113,45.626 136.113,59.626 " />
+        <polygon
+           id="polygon1937"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="131.063,59.626 131.063,45.626 117.063,45.626 117.063,59.626 " />
+        <polygon
+           id="polygon1939"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="112.013,59.626 112.013,45.626 98.013,45.626 98.013,59.626 " />
+        <polygon
+           id="polygon1941"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="92.963,59.626 92.963,45.626 78.963,45.626 78.963,59.626 " />
+        <polygon
+           id="polygon1943"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="73.913,59.626 73.913,45.626 59.913,45.626 59.913,59.626 " />
+        <polygon
+           id="polygon1945"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="47.719,59.626 47.719,45.626 33.719,45.626 33.719,59.626 " />
+        <polygon
+           id="polygon1947"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="21.526,59.626 21.526,45.626 7.526,45.626 7.526,59.626 " />
+        <polygon
+           id="polygon1949"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="145.351,40.576 145.351,26.576 131.351,26.576 131.351,40.576 " />
+        <polygon
+           id="polygon1951"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="126.301,40.576 126.301,26.576 112.301,26.576 112.301,40.576 " />
+        <polygon
+           id="polygon1953"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="107.251,40.576 107.251,26.576 93.251,26.576 93.251,40.576 " />
+        <polygon
+           id="polygon1955"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="88.201,40.576 88.201,26.576 74.201,26.576 74.201,40.576 " />
+        <polygon
+           id="polygon1957"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="69.151,40.576 69.151,26.576 55.151,26.576 55.151,40.576 " />
+        <polygon
+           id="polygon1959"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="45.338,40.576 45.338,26.576 31.338,26.576 31.338,40.576 " />
+        <polygon
+           id="polygon1961"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="21.526,40.576 21.526,26.576 7.526,26.576 7.526,40.576 " />
+        <polygon
+           id="polygon1963"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="154.876,21.526 154.876,7.526 140.876,7.526 140.876,21.526 " />
+        <polygon
+           id="polygon1965"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="135.826,21.526 135.826,7.526 121.825,7.526 121.825,21.526 " />
+        <polygon
+           id="polygon1967"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="116.775,21.526 116.775,7.526 102.775,7.526 102.775,21.526 " />
+        <polygon
+           id="polygon1969"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="97.726,21.526 97.726,7.526 83.726,7.526 83.726,21.526 " />
+        <polygon
+           id="polygon1971"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="78.676,21.526 78.676,7.526 64.676,7.526 64.676,21.526 " />
+        <polygon
+           id="polygon1973"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="59.626,21.526 59.626,7.526 45.626,7.526 45.626,21.526 " />
+        <polygon
+           id="polygon1975"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="40.576,21.526 40.576,7.526 26.576,7.526 26.576,21.526 " />
+        <polygon
+           id="polygon1977"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           points="21.526,21.526 21.526,7.526 7.526,7.526 7.526,21.526 " />
+        <path
+           id="path3520"
+           style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+           d="m 157.4015,5.001 v 19.074381 l -9.525,0.02701 v 18.992544 l 4.7625,0.04253 v 19.120616 l 9.525,8.78e-4 c 0,6.320638 0,12.600504 0,18.921143 l -4.7625,8.77e-4 V 100.251 H 5.001 V 5.001 Z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+      <g
+         id="g4196">
+        <circle
+           r="1"
+           cy="82.003044"
+           cx="151.31963"
+           id="circle4128"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4130"
+           cx="138.4119"
+           cy="23.832951"
+           r="1" />
+        <circle
+           r="1"
+           cy="24.147995"
+           cx="24.074821"
+           id="circle4132"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4134"
+           cx="25.132727"
+           cy="81.213707"
+           r="1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4132-9"
+           cx="95.512367"
+           cy="43.460712"
+           r="1" />
+      </g>
+    </g>
+    <g
+       transform="translate(11.558252,44.835144)"
+       id="g4294">
+      <g
+         transform="translate(158.77218,0.01053088)"
+         id="g3386">
+        <g
+           style="stroke:#ff0000"
+           id="g3600">
+          <path
+             id="polygon2709"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 14.526,5.001 h 152.401 v 95.25 H 14.526 l -0.0095,-19.085913 4.772026,0.0114 v -18.9231 l -9.525,-0.03723 V 43.089426 l -4.7625,0.01021 v -18.99756 l 9.525,-0.03723 z"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2711"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 46.207,97.495 v 1.201 h 3.3 v -1.201 h 1.725 v -6.269 h 0.825 v -2.8 h -0.825 v -3.23 h -6.75 v 3.23 h -1.525 v -4.7 h -14 v 4.7 h -1.525 v -3.23 h -6.75 v 3.23 h -0.825 v 2.8 h 0.825 v 6.269 h 1.725 v 1.201 h 3.3 v -1.201 h 1.725 v -4.47 h 1.525 v 4.701 h 14 v -4.701 h 1.525 v 4.47 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2713"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 164.401,97.726 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2715"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 145.351,97.726 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2717"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 123.919,97.726 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2719"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 100.107,97.726 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2721"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 76.294,97.726 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2723"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 164.4,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2725"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 138.207,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2727"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 112.013,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2729"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 92.963,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2731"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 73.913,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2733"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 54.863,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2735"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 35.813,78.676 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2737"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 155.744,59.395 v 1.201 h 3.3 v -1.201 h 1.725 v -6.269 h 0.825 v -2.8 h -0.825 v -3.23 h -6.75 v 3.23 h -1.525 v -4.7 h -14 v 4.7 h -1.525 v -3.23 h -6.751 v 3.23 h -0.824 v 2.8 h 0.824 v 6.269 h 1.726 v 1.201 h 3.3 v -1.201 h 1.725 v -4.469 h 1.525 v 4.7 h 14 v -4.7 h 1.525 v 4.469 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2739"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 121.538,59.626 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2741"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 102.488,59.626 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2743"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 83.438,59.626 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2745"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 64.388,59.626 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2747"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 45.338,59.626 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2749"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 26.288,59.626 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2751"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 159.638,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2753"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 135.826,40.576 v -14 h -14.001 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2755"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 116.775,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2757"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 97.726,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2759"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 78.676,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2761"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 59.626,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2763"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 40.576,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2765"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 21.526,40.576 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2767"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 158.126,21.296 v 1.2 h 3.3 v -1.2 h 1.725 v -6.27 h 0.825 v -2.8 h -0.825 v -3.23 h -6.75 v 3.23 h -1.525 v -4.7 h -14 v 4.7 h -1.525 v -3.23 h -6.75 v 3.23 h -0.825 v 2.8 h 0.825 v 6.27 h 1.725 v 1.2 h 3.3 v -1.2 h 1.725 v -4.47 h 1.525 v 4.7 h 14 v -4.7 h 1.525 v 4.47 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2769"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 126.301,21.526 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2771"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 107.251,21.526 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2773"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 88.201,21.526 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2775"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 69.151,21.526 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2777"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 50.101,21.526 v -14 h -14 v 14 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="polygon2779"
+             style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+             d="m 31.051,21.526 v -14 h -14 v 14 z" />
+        </g>
+      </g>
+      <g
+         transform="translate(15.875)"
+         id="g4203">
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="path4094"
+           cx="283.69855"
+           cy="25.199097"
+           r="1" />
+        <circle
+           r="1"
+           cy="81.224052"
+           cx="290.81888"
+           id="path4094-9"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           r="1"
+           cy="23.988548"
+           cx="167.23981"
+           id="path4094-2"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4126"
+           cx="166.79828"
+           cy="81.993866"
+           r="1" />
+        <circle
+           r="1"
+           cy="43.470058"
+           cx="228.86014"
+           id="circle4132-9-4"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       id="text1897-5"
+       y="19.558144"
+       x="188.97076"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1903-2"
+         style="stroke-width:0.264583"
+         y="19.558144"
+         x="188.97076"
+         sodipodi:role="line">Top plate right:</tspan><tspan
+         id="tspan1905-8"
+         style="stroke-width:0.264583"
+         y="24.849806"
+         x="188.97076"
+         sodipodi:role="line">Width: 161.927mm</tspan><tspan
+         style="stroke-width:0.264583"
+         y="30.141468"
+         x="188.97076"
+         sodipodi:role="line"
+         id="tspan4345">Height: 95.252mm</tspan><tspan
+         style="stroke-width:0.264583"
+         y="35.433128"
+         x="188.97076"
+         sodipodi:role="line"
+         id="tspan4347">Surface Area: 7985.594mm2</tspan><tspan
+         style="stroke-width:0.264583"
+         y="40.724792"
+         x="188.97076"
+         sodipodi:role="line"
+         id="tspan4349">Cut Path Length: 2690.358mm</tspan></text>
+    <g
+       id="g4872"
+       transform="translate(11.168272,35.58852)">
+      <path
+         id="path3520-0"
+         style="fill:none;stroke:#0000ff;stroke-width:0.05mm"
+         d="m 157.76062,157.09494 v 19.07438 l -9.525,0.027 v 18.99254 l 4.7625,0.0425 v 19.12062 l 9.525,8.8e-4 c 0,6.32064 0,12.6005 0,18.92114 l -4.7625,8.8e-4 V 252.3449 H 5.3601242 v -95.25 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <g
+         transform="translate(0.35912416,152.09394)"
+         id="g4196-6">
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4128-5"
+           cx="151.31963"
+           cy="82.003044"
+           r="1" />
+        <circle
+           r="1"
+           cy="23.832951"
+           cx="138.4119"
+           id="circle4130-1"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4132-7"
+           cx="24.074821"
+           cy="24.147995"
+           r="1" />
+        <circle
+           r="1"
+           cy="81.213707"
+           cx="25.132727"
+           id="circle4134-9"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           r="1"
+           cy="43.460712"
+           cx="95.512367"
+           id="circle4132-9-7"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g4881"
+       transform="translate(11.168272,35.58852)">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 173.6573,157.10547 h 152.401 v 95.25 h -152.401 l -0.01,-19.08591 4.77203,0.0114 v -18.9231 l -9.525,-0.0372 V 195.1939 l -4.7625,0.0102 v -18.99756 l 9.525,-0.0372 z"
+         style="fill:none;stroke:#ff0000;stroke-width:0.05mm"
+         id="polygon2709-2" />
+      <g
+         id="g4203-3"
+         transform="translate(16.234124,152.09394)">
+        <circle
+           r="1"
+           cy="25.199097"
+           cx="283.69855"
+           id="path4094-7"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="path4094-9-4"
+           cx="290.81888"
+           cy="81.224052"
+           r="1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="path4094-2-8"
+           cx="167.23981"
+           cy="23.988548"
+           r="1" />
+        <circle
+           r="1"
+           cy="81.993866"
+           cx="166.79828"
+           id="circle4126-7"
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1" />
+        <circle
+           style="opacity:0.437299;fill:#000000;stroke:none;stroke-width:0.265494;stroke-opacity:1"
+           id="circle4132-9-4-5"
+           cx="228.86014"
+           cy="43.470058"
+           r="1" />
+      </g>
+    </g>
+    <text
+       id="text1897-7"
+       y="178.60399"
+       x="17.726984"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="178.60399"
+         x="17.726984"
+         id="tspan1895-2"
+         sodipodi:role="line">Bottom plate left:</tspan><tspan
+         id="tspan1899-3"
+         style="stroke-width:0.264583"
+         y="183.89565"
+         x="17.726984"
+         sodipodi:role="line">Width: 157.165mm</tspan><tspan
+         id="tspan1905-3"
+         style="stroke-width:0.264583"
+         y="189.18732"
+         x="17.726984"
+         sodipodi:role="line">Height: 95.252mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="187.93745"
+       y="179.07068"
+       id="text1897-5-4"><tspan
+         sodipodi:role="line"
+         x="187.93745"
+         y="179.07068"
+         style="stroke-width:0.264583"
+         id="tspan1903-2-2">Bottom plate right:</tspan><tspan
+         sodipodi:role="line"
+         x="187.93745"
+         y="184.36234"
+         style="stroke-width:0.264583"
+         id="tspan1905-8-7">Width: 161.927mm</tspan><tspan
+         id="tspan4349-7"
+         sodipodi:role="line"
+         x="187.93745"
+         y="189.65401"
+         style="stroke-width:0.264583">Height: 95.252mm</tspan></text>
+  </g>
+</svg>
