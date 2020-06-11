@@ -7,6 +7,7 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 - Splitted-staggered keyboard
 - Handwired
 - Fully programmable
+- Almost zero learning curve (~ortholinear~, ~symbols through modifier/layer~)
 - Ergonomic as UHK
 - Generic size of keycaps (any 75-80% keycap set should be fitted)
 - Interchangable middle modules (touchpad, trackball, smartphone dock)
