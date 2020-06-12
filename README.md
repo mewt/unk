@@ -24,4 +24,4 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 ### Parts
 
 - Gateron Brown switches, 68 @ Rp 2.400 = Rp 163.200
-- Pro micro 16Mhz 5V, 2 @ Rp 52.800 = Rp 105.600
+- Pro micro ATMEGA32U4 16Mhz 5V, 2 @ Rp 52.800 = Rp 105.600
