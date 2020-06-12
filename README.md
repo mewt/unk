@@ -19,3 +19,9 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 - Right plate: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
 
 <img src="final-screenshot.png">
+
+
+### Parts
+
+- Gateron Brown switches, 68 @ Rp 2.400 = Rp 163.200
+- Pro micro 16Mhz 5V, 2 @ Rp 52.800 = Rp 105.600
