@@ -26,4 +26,4 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 - Existing keycaps set from a Vortex Tab 75 keyboard
 - Gateron Brown switches, 68 @ Rp 2.400 = Rp 163.200
 - Pro micro ATMEGA32U4 16Mhz 5V, 2 @ Rp 52.800 = Rp 105.600
-- Top and bottom plate + laser cutting service at <a href="https://www.instagram.com/laserindonesia/">Laser Indonesia</a> = Rp 463.000
+- Stainless steel plates + laser cutting service at <a href="https://www.instagram.com/laserindonesia/">Laser Indonesia</a> = Rp 463.000
