@@ -1,12 +1,12 @@
-# UNK Build Logs
+# UNK
 
-My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hacking Keyboard</a>
+My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hacking Keyboard</a>. This is still a work-in-progress build logs.
 
 ### Goals
 
 - Splitted-staggered keyboard
 - Handwired
-- Fully programmable
+- Fully programmable (QMK)
 - Almost zero learning curve (~ortholinear~, ~symbols through modifier/layer~)
 - Ergonomic as UHK
 - Generic size of keycaps (any 75-80% keycap set should be fitted)
