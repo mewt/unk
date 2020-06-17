@@ -28,6 +28,8 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 
 <img src="/images/layout.png">
 
+<img src="/images/plate-design.png">
+
 ### Build Logs
 
 #### 20200615
