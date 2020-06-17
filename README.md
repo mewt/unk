@@ -18,6 +18,7 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 - Gateron Brown switches, 68 @ Rp 2.400 = Rp 163.200
 - Pro micro ATMEGA32U4 16Mhz 5V, 2 @ Rp 52.800 = Rp 105.600
 - Stainless steel plates + laser cutting service at <a href="https://www.instagram.com/laserindonesia/">Laser Indonesia</a> = Rp 463.000
+- Cherry switch stabilizers (1x6u, 6x2u) = Rp 210.000
 
 
 ### Design
