@@ -51,7 +51,7 @@ Current total: Rp 1.027.800
 
 #### 20200619
 
-<img src="/assets/split-magnet.jpg">
+<img src="/assets/split-magnet.png">
 
-<video src="/assets/split-magnet.mp4">
+<img src="/assets/split-magnet.gif">
 
