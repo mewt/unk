@@ -26,16 +26,22 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 - Left plate: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
 - Right plate: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
 
-<img src="/images/layout.png">
+<img src="/assets/layout.png">
 
 ### Build Logs
 
 #### 20200615
-<img src="/images/promicro.png">
+<img src="/assets/promicro.png">
 
 #### 20200617
-<img src="/images/plate-1.jpg">
-<img src="/images/plate-2.jpg">
-<img src="/images/plate-3.jpg">
-<img src="/images/plate-4.jpg">
+<img src="/assets/plate-1.jpg">
+<img src="/assets/plate-2.jpg">
+<img src="/assets/plate-3.jpg">
+<img src="/assets/plate-4.jpg">
+
+#### 20200619
+
+<img src="/assets/split-magnet.jpg">
+
+<video src="/assets/split-magnet.mp4">
 
