@@ -25,11 +25,11 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=524168394&dtl_id=786149367">Cherry switch stabilizers (1x6u, 6x2u)</a> | 210.000 |
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=523970821&dtl_id=785853463">M3 x 6mm female to female spacer</a>, 30 * Rp 1.200 | 36.000 |
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=519530379&dtl_id=779219817">Dupont wire jumper cable for breadboard project</a>, 100 * Rp 375 | 37.500 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=524108021&dtl_id=786054902">Carbon vinyl sticker 30 meter</a> | Rp 45.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970823&dtl_id=785853465">Neodyum super magnet 20 x 10 x 2mm</a>, 16 * Rp 3.700 | Rp 59.200 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=525632439&dtl_id=788362577">M3x3mm screw for top plate</a>, 20 * Rp 3.000 | Rp 60.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970818&dtl_id=785853460">M3x5mm hex screw for bottom plate</a>, 30 * Rp 1.500 | Rp 45.000 |
-| <a href="https://www.bukalapak.com/product_detail_history?product_id=387589838&product_sku_id=337897319&transaction_id=2832367677">Wood wrist RRest for TKL size mechanical keyboard (36cm)</a> | Rp 100.000 |
+| <a href="https://www.tokopedia.com/snapshot_product?order_id=524108021&dtl_id=786054902">Carbon vinyl sticker 30 meter</a> | 45.000 |
+| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970823&dtl_id=785853465">Neodyum super magnet 20 x 10 x 2mm</a>, 16 * Rp 3.700 | 59.200 |
+| <a href="https://www.tokopedia.com/snapshot_product?order_id=525632439&dtl_id=788362577">M3x3mm screw for top plate</a>, 20 * Rp 3.000 | 60.000 |
+| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970818&dtl_id=785853460">M3x5mm hex screw for bottom plate</a>, 30 * Rp 1.500 | 45.000 |
+| <a href="https://www.bukalapak.com/product_detail_history?product_id=387589838&product_sku_id=337897319&transaction_id=2832367677">Wood wrist RRest for TKL size mechanical keyboard (36cm)</a> | 100.000 |
 
 ### Layout
 
