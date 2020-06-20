@@ -51,17 +51,17 @@ Download:
 ### Build Logs
 
 #### 20200615
-<img src="/assets/promicro.png">
+<img width="650" src="/assets/promicro.png">
 
 #### 20200617
-<img src="/assets/plate-1.jpg">
-<img src="/assets/plate-2.jpg">
-<img src="/assets/plate-3.jpg">
-<img src="/assets/plate-4.jpg">
+<img width="650" src="/assets/plate-1.jpg">
+<img width="650" src="/assets/plate-2.jpg">
+<img width="650" src="/assets/plate-3.jpg">
+<img width="650" src="/assets/plate-4.jpg">
 
 #### 20200619
 
-<img src="/assets/split-magnet.png">
+<img width="650" src="/assets/split-magnet.png">
 
-<img src="/assets/split-magnet.gif">
+<img width="650" src="/assets/split-magnet.gif">
 
