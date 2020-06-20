@@ -33,6 +33,8 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. This i
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=521809361&dtl_id=782626464">Type C USB to micro USB adapter</a>, 2 @ Rp 15.000 | 30.000 |
 | <a href="https://www.bukalapak.com/product_detail_history?product_id=2175738349&product_sku_id=2181000539&transaction_id=2614550530">Tactile switch push button 6 x 6 x 10mm</a>, 2 @ Rp 2.800 | 5.600 |
 
+*Some items were purcashed more than the need for spare/stockpile.*
+
 ### Layout
 
 - Combined : http://www.keyboard-layout-editor.com/#/gists/457787e3b1938c4cbe9d65c7b7bd31ef
