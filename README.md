@@ -27,14 +27,22 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hackin
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=519530379&dtl_id=779219817">Dupont wire jumper cable for breadboard project</a>, 100 * Rp 375 | 37.500 |
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=524108021&dtl_id=786054902">Carbon vinyl sticker 30 meter</a> | Rp 45.000 |
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=523970823&dtl_id=785853465">Neodyum super magnet 20 x 10 x 2mm</a>, 16 * Rp 3.700 | Rp 59.200 |
+| <a href="https://www.tokopedia.com/snapshot_product?order_id=525632439&dtl_id=788362577">M3x3mm screw for top plate</a>, 20 * Rp 3.000 | Rp 60.000 |
+| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970818&dtl_id=785853460">M3x5mm hex screw for bottom plate</a>, 30 * Rp 1.500 | Rp 45.000 |
 
-### Design
+### Layout
 
-- Combined plate: http://www.keyboard-layout-editor.com/#/gists/457787e3b1938c4cbe9d65c7b7bd31ef
-- Left plate: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
-- Right plate: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
+- Combined : http://www.keyboard-layout-editor.com/#/gists/457787e3b1938c4cbe9d65c7b7bd31ef
+- Left half: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
+- Right half: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
 
 <img src="/assets/layout.png">
+
+### Plate
+
+Download:
+- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.svg">SVG (Inkscape)</a>
+- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.ai">Adobe Illustrator</a>
 
 <img src="/assets/plate-design.png">
 
