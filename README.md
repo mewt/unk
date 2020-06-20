@@ -70,4 +70,6 @@ Download:
 
 20200620
 
+<img width="650" src="/assets/matrix-soldered.jpg">
+
 <img width="650" src="/assets/pro-micro-testing.jpg">
