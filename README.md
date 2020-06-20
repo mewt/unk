@@ -36,7 +36,7 @@ Current total: Rp 1.027.800
 
 <img src="/assets/layout.png">
 
-<img src="/images/plate-design.png">
+<img src="/assets/plate-design.png">
 
 ### Build Logs
 
