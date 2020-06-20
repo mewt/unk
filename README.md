@@ -1,6 +1,6 @@
 # UNK
 
-My own version of <a href="https://ultimatehackingkeyboard.com/">Ultimate Hacking Keyboard</a>. This is still a work-in-progress build logs.
+My own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. This is still a work-in-progress build logs.
 
 ### Goals
 
