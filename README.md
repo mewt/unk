@@ -31,6 +31,7 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. This i
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=523970818&dtl_id=785853460">M3x5mm hex screw for bottom plate</a>, 30 @ Rp 1.500 | 45.000 |
 | <a href="https://www.bukalapak.com/product_detail_history?product_id=387589838&product_sku_id=337897319&transaction_id=2832367677">Wood wrist RRest for TKL size mechanical keyboard (36cm)</a> | 100.000 |
 | <a href="https://www.tokopedia.com/snapshot_product?order_id=521809361&dtl_id=782626464">Type C USB to micro USB adapter</a>, 2 @ Rp 15.000 | 30.000 |
+| <a href="https://www.bukalapak.com/product_detail_history?product_id=2175738349&product_sku_id=2181000539&transaction_id=2614550530">Tactile switch push button 6 x 6 x 10mm</a>, 2 @ Rp 2.800 | 5.600 |
 
 ### Layout
 
