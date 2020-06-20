@@ -58,9 +58,7 @@ Download:
 
 #### 20200617
 <img width="650" src="/assets/plate-1.jpg">
-<img width="650" src="/assets/plate-2.jpg">
 <img width="650" src="/assets/plate-3.jpg">
-<img width="650" src="/assets/plate-4.jpg">
 
 #### 20200619
 
