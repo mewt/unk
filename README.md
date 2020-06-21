@@ -71,6 +71,16 @@ Download:
 
 #### 20200620
 
-<img width="650" src="/assets/matrix-soldered.jpg">
+Handwired. Pardon my mediocre soldering skill.
+
+<img width="650" src="/assets/handwired.jpg">
 
 <img width="650" src="/assets/pro-micro-testing.jpg">
+
+#### 20200622
+
+Fully working left half with modified <a href="https://github.com/herpiko/qmk_firmware/tree/uhk">DeltaSplit75 firmware code</a>.
+
+<img width="650" src="/assets/left-half-test-on-game.gif">
+
+
