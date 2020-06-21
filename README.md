@@ -73,7 +73,7 @@ Download:
 
 Handwired. Pardon my mediocre soldering skill.
 
-<img width="650" src="/assets/handwired.jpg">
+<img width="650" src="/assets/handwired.png">
 
 <img width="650" src="/assets/pro-micro-testing.jpg">
 
