@@ -58,7 +58,7 @@ Download:
 
 #### 20200612
 
-The wish was occured a loooooongc time ago, but I began to (seriously) design the keyboard from this date.
+The wish was occured a loooooong time ago but I began to (seriously) design the keyboard from this date.
 
 #### 20200615
 
@@ -120,9 +120,13 @@ I reglued the switches back into the plate using hot glue. Quite easy but messy.
 
 #### 20299625
 
-While waiting my magnet coil wire to be arrived, I made two parts of wrist rest for the keyboard.
+While waiting my magnet coil wire to be arrived, I made two parts of wrist rest for the keyboard from an unused long wrist rest.
 
 <img width="650" src="/assets/wrist-rest-1.jpg">
 <img width="650" src="/assets/wrist-rest-2.jpg">
 <img width="650" src="/assets/wrist-rest-3.jpg">
+
+The TRRS cable was also being made.
+
+<img width="650" src="/assets/trrs-1.png">
 
