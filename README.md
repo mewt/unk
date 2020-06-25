@@ -1,6 +1,6 @@
 # UNK
 
-UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will by my endgame (I know it's a lie) keyboard. This is still a work-in-progress build logs.
+UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will be my endgame (I know it's a lie) keyboard. This is still a work-in-progress build logs.
 
 ### Goals
 
@@ -119,7 +119,7 @@ I reglued the switches back into the plate using hot glue. Quite easy but messy.
 
 #### 20299625
 
-While waiting for the magnet coil wire to be arrived, I made two parts of wrist rest for the keyboard from an unused long wrist rest.
+While waiting for the magnet coil wire to be arrived, I made a pair of wrist rest from an unused wrist rest.
 
 <img width="650" src="/assets/wrist-rest-1.jpg">
 <img width="650" src="/assets/wrist-rest-2.jpg">
