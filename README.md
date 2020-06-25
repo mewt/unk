@@ -4,13 +4,12 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 
 ### Goals
 
-- Splitted-staggered keyboard
-- Handwired
+- Cheap (handwired)
 - As thin as possible (thinner than Vortex Core)
 - Fully programmable (QMK)
-- Almost zero learning curve (~ortholinear~, ~symbols through modifier/layer~)
-- Ergonomic as UHK
-- Generic size of keycaps (any 75-80% keycap set should be fitted)
+- Almost zero learning curve (horizontally staggered, ~ortholinear~, ~symbols through modifier/layer~)
+- Ergonomic as UHK (splitted)
+- Generic size of keycaps (combinations from 145 keycaps set should be fitted)
 - Interchangeable middle modules (touchpad, trackball, smartphone dock)
 
 ### Layout
