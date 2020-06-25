@@ -63,11 +63,13 @@ The wish was occured a loooooongc time ago, but I began to (seriously) design th
 #### 20200615
 
 Pro micro clones arrived. Small important things.
+
 <img width="650" src="/assets/promicro.png">
 
 #### 20200617
 
-The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm.. I'm a bit surprissed that these plates were quite heavy.
+The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm. I'm a bit surprissed that these plates were quite heavy.
+
 <img width="650" src="/assets/plate-1.jpg">
 <img width="650" src="/assets/plate-3.jpg">
 
