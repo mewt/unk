@@ -68,7 +68,7 @@ Pro micro clones arrived. Small important things.
 
 #### 20200617
 
-The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm. I'm a bit surprissed that these plates were quite heavy.
+The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm. I'm a bit surprissed that these plates were quite heavy. Heavy (p)unk keyboard!
 
 <img width="650" src="/assets/plate-1.jpg">
 <img width="650" src="/assets/plate-3.jpg">
