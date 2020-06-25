@@ -1,6 +1,6 @@
 # UNK
 
-My own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. This is still a work-in-progress build logs.
+UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will by my endgame (I know it's a lie) keyboard. This is still a work-in-progress build logs.
 
 ### Goals
 
@@ -12,6 +12,22 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. This i
 - Ergonomic as UHK
 - Generic size of keycaps (any 75-80% keycap set should be fitted)
 - Interchangeable middle modules (touchpad, trackball, smartphone dock)
+
+### Layout
+
+- Combined : http://www.keyboard-layout-editor.com/#/gists/457787e3b1938c4cbe9d65c7b7bd31ef
+- Left half: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
+- Right half: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
+
+<img src="/assets/layout.png">
+
+### Plate
+
+Download:
+- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.svg">SVG (Inkscape)</a>
+- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.ai">Adobe Illustrator</a>
+
+<img src="/assets/plate-design.png">
 
 ### Parts
 
@@ -37,22 +53,6 @@ My own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. This i
 | Joyseus 2 in 1 coiled data cable 1M (micro USB & type C) | 45.000 |
 
 *Some items were purcashed more than the need for spare/stockpile.*
-
-### Layout
-
-- Combined : http://www.keyboard-layout-editor.com/#/gists/457787e3b1938c4cbe9d65c7b7bd31ef
-- Left half: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
-- Right half: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
-
-<img src="/assets/layout.png">
-
-### Plate
-
-Download:
-- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.svg">SVG (Inkscape)</a>
-- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.ai">Adobe Illustrator</a>
-
-<img src="/assets/plate-design.png">
 
 ### Build Logs
 
@@ -114,7 +114,7 @@ I've seen some videos of making handwired keyboard and got some idea for better 
 
 #### 20299624
 
-I reglued the switches back into the plate using hot glue. Quite easy but messy. Note that you have to clean the "spider web" things from the hot glue. If this thing makes it way into your switch housing or the stabilizer, it'll makes it feel terible.
+I reglued the switches back into the plate using hot glue. Quite easy but messy. Note that you have to clean the "spider web" things from the hot glue. If this thing makes it way into your switch housing or the stabilizer, it'll makes it feels terrible.
 
 <img width="650" src="/assets/hot-glue.png">
 
