@@ -58,7 +58,7 @@ Download:
 
 #### 20200612
 
-The wish was occured a loooooong time ago but I began to (seriously) design the keyboard from this date.
+The wish was occured a loooooong time ago but I began to (seriously) design the keyboard from this date. I also started to purchase the parts that I need to build the keyboard.
 
 #### 20200615
 
