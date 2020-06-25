@@ -120,7 +120,7 @@ I reglued the switches back into the plate using hot glue. Quite easy but messy.
 
 #### 20299625
 
-While waiting my magnet coil wire to be arrived, I made two parts of wrist rest for the keyboard from an unused long wrist rest.
+While waiting for the magnet coil wire to be arrived, I made two parts of wrist rest for the keyboard from an unused long wrist rest.
 
 <img width="650" src="/assets/wrist-rest-1.jpg">
 <img width="650" src="/assets/wrist-rest-2.jpg">
