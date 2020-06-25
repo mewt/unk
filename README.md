@@ -56,16 +56,28 @@ Download:
 
 ### Build Logs
 
+#### 20200612
+
+The wish was occured a loooooongc time ago, but I began to (seriously) design the keyboard from this date.
+
 #### 20200615
+
+Pro micro clones arrived. Small important things.
 <img width="650" src="/assets/promicro.png">
 
 #### 20200617
+
+The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm.. I'm a bit surprissed that these plates were quite heavy.
 <img width="650" src="/assets/plate-1.jpg">
 <img width="650" src="/assets/plate-3.jpg">
 
 #### 20200619
 
+I put carbon-like sticker on the inner side of bottom plate to avoid shorting from the wiring.
+
 <img width="650" src="/assets/split-magnet.png">
+
+Also there were four strong neodyum magnets to help the two parts stick together.
 
 <img width="650" src="/assets/split-magnet.gif">
 
