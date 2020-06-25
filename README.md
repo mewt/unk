@@ -84,3 +84,31 @@ Fully working left half with modified <a href="https://github.com/herpiko/qmk_fi
 <img width="650" src="/assets/left-half-test-on-game.gif">
 
 
+#### 20299623
+
+DO NOT USE SUPER GLUE TO GLUE YOUR SWITCHES TO THE PLATE.
+
+Oh boy, just don't. I'm a big fan of super glue as it's very versatile, strong adhesive, and quick-drying. Super glue has this kind of vapor that makes white mark around the surface that you glued on. My super glue is the strong one. This marks got into my switches' housing, contaminated the copper contacts, and makes it unusable!
+
+Because of my stupidity, I've to unplugged all the switches. I've to redo all the works that has been done on switches: matrix soldering and gluing. Plentiful of switches become the victims. Huft!
+
+<img width="650" src="/assets/unplugged-switches.jpg">
+
+Use hot glue instead. Hot glue is quite strong to hold your switches but very easy to remove in case that you want to change some bad switches.
+
+I've seen some videos of making handwired keyboard and got some idea for better handwiring. I'll be using 0.35mm magnet coil wire.
+
+#### 20299624
+
+I reglued the switches back into the plate using hot glue. Quite easy but messy. Note that you have to clean the "spider web" things from the hot glue. If this thing makes it way into your switch housing or the stabilizer, it'll makes it feel terible.
+
+<img width="650" src="/assets/hot-glue.png">
+
+#### 20299625
+
+While waiting my magnet coil wire to be arrived, I made two parts of wrist rest for the keyboard.
+
+<img width="650" src="/assets/wrist-rest-1.jpg">
+<img width="650" src="/assets/wrist-rest-2.jpg">
+<img width="650" src="/assets/wrist-rest-3.jpg">
+
