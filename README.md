@@ -25,8 +25,8 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 ### Plate
 
 Download:
-- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.svg">SVG (Inkscape)</a>
-- <a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.ai">Adobe Illustrator</a>
+- <a href="https://github.com/herpiko/unk/raw/master/unk-plate-layout.svg">SVG (Inkscape)</a>
+- ~~<a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.ai">Adobe Illustrator</a>~~
 
 <img src="/assets/plate-design.png">
 
@@ -35,25 +35,26 @@ Download:
 | Item  | Price (rupiah) |
 | ------------- | -------------: |
 | Existing DSA keycaps set from a <a href="https://www.google.com/search?q=vortex+tab+75&source=lnms&tbm=isch">Vortex Tab 75 keyboard</a> | 0 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=514326055&dtl_id=771431683">Gateron Brown switches</a>, 68 @ Rp 2.400 | 163.200 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=524106095&dtl_id=786051991">IN4148 diodes</a>, 200 @ Rp 100 | 20.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=520483166&dtl_id=780648825">Pro micro ATMEGA32U4 16Mhz 5V</a>, 2 @ Rp 52.800 | 105.600 |
+| <a href="https://www.tokopedia.com/vortexseries/ks-9-gateron-brown-switch-tactile-plate-mounted">Gateron Brown switches</a>, 68 @ Rp 2.400 | 163.200 |
+| <a href="https://www.tokopedia.com/tokopuwei/dioda-in4148-1n-4148-in-4148-dip-diode-1n4148-do35-ac85-harga-1-pcs">IN4148 diodes</a>, 200 @ Rp 100 | 20.000 |
+| <a href="https://www.tokopedia.com/solarperfect/pro-micro-promicro-atmega32u4-16mhz-5v-arduino-module">Pro micro ATMEGA32U4 16Mhz 5V</a>, 2 @ Rp 52.800 | 105.600 |
 | Stainless steel plates + laser cutting service at <a href="https://www.instagram.com/laserindonesia/">Laser Indonesia</a>, 1.5mm top plate + 2.0mm bottom plate | 463.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=524168394&dtl_id=786149367">Cherry switch stabilizers (1x6u, 6x2u)</a> | 210.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970821&dtl_id=785853463">M3 x 6mm female to female spacer</a>, 30 @ Rp 1.200 | 36.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=519530379&dtl_id=779219817">Dupont wire jumper cable for breadboard project</a>, 100 @ Rp 375 | 37.500 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=524108021&dtl_id=786054902">Carbon vinyl sticker 30 meter</a> | 45.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970823&dtl_id=785853465">Neodyum super magnet 20 x 10 x 2mm</a>, 16 @ Rp 3.700 | 59.200 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=525632439&dtl_id=788362577">M3x3mm screw for top plate</a>, 20 @ Rp 3.000 | 60.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=523970818&dtl_id=785853460">M3x5mm hex screw for bottom plate</a>, 30 @ Rp 1.500 | 45.000 |
-| <a href="https://www.bukalapak.com/product_detail_history?product_id=387589838&product_sku_id=337897319&transaction_id=2832367677">Wood wrist rest for TKL size mechanical keyboard (36cm)</a> | 100.000 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=521809361&dtl_id=782626464">Type C USB to micro USB adapter</a>, 2 @ Rp 15.000 | 30.000 |
-| <a href="https://www.bukalapak.com/product_detail_history?product_id=2175738349&product_sku_id=2181000539&transaction_id=2614550530">Tactile switch push button 6 x 6 x 10mm</a>, 2 @ Rp 2.800 | 5.600 |
-| <a href="https://www.tokopedia.com/snapshot_product?order_id=521809362&dtl_id=782626465">TRRS PCB 3.5mm jack socket</a>, 2 @ Rp 12.000 | 24.000 |
-| 3.5mm TRRS 4 pins for Hifiman Balanced Male Plug, 2 @ Rp 12.500 | 25.000 |
-| Joyseus 2 in 1 coiled data cable 1M (micro USB & type C) | 45.000 |
+| <a href="https://www.tokopedia.com/pixlup/genuine-cherry-pcb-mount-stabilizer-stabilizers-fullsize">Cherry switch stabilizers (1x6u, 6x2u)</a> | 210.000 |
+| <a href="https://www.tokopedia.com/hpasesoris/m3x6mm-m3-6-black-nylon-hex-nut-m3-thread-female-standoff-spacer-aq21">M3 x 6mm female to female spacer</a>, 30 @ Rp 1.200 | 36.000 |
+| <a href="https://www.tokopedia.com/pcmjakarta/kabel-tunggal-mini-tembaga-0-5mm-40meter">Single copper wire 0.5mm</a>, 40 meter | 30.000 |
+| <a href="https://www.tokopedia.com/stickerkacafilm/stikerstickermotormobilstiker-karboncarbon3d-hitam-dof">Carbon vinyl sticker 30 meter</a> | 45.000 |
+| <a href="https://www.tokopedia.com/kiddiesworld123/magnet-super-neodymium-kepingan-persegi-kotak-ndfeb-20-x-10-x-2-mm">Neodyum super magnet 20 x 10 x 2mm</a>, 16 @ Rp 3.700 | 59.200 |
+| <a href="https://www.tokopedia.com/adelioberkah/baut-screw-kecil-m3x3-laptop-hp-toshiba-dell-samsung-asus-acer-lenovo">M3x3mm screw for top plate</a>, 20 @ Rp 3.000 | 60.000 |
+| <a href="https://www.tokopedia.com/crd/m3-x-5mm-button-head-hex-screw-1pcs-baut-hex-m3x5mm-1pcs">M3x5mm hex screw for bottom plate</a>, 30 @ Rp 1.500 | 45.000 |
+| <a href="https://www.bukalapak.com/p/komputer/aksesoris-226/keyboard/6ere8e-jual-wood-wrist-rest-for-tenkeyless-size-mechanical-keyboard-brown">Wood wrist rest for TKL size mechanical keyboard (36cm)</a> | 100.000 |
+| <a href="https://www.tokopedia.com/qacc/type-c-to-microusb-adapter-converter-otg-adaptor-type-c-to-micro-usb">Type C USB to micro USB adapter</a>, 2 @ Rp 15.000 | 30.000 |
+| <a href="https://www.bukalapak.com/p/elektronik/komponen-elektronik/zzdmgd-jual-tactile-switch-push-button-saklar-tekan-6x6x10-mm-arduino-elektronika-bread-board-pcb?product_sku=2181000539">Tactile switch push button 6 x 6 x 10mm</a>, 2 @ Rp 2.800 | 5.600 |
+| <a href="https://www.tokopedia.com/myofficialstore0/trrs-pcb-3-5mm-breakout-jack-headset-headphone-earphone-socket-diy-merah">TRRS PCB 3.5mm jack socket</a>, 2 @ Rp 12.000 | 24.000 |
+| <a href="https://www.tokopedia.com/herzhz/35mm-trrs-4-pole-for-hifiman-balanced-male-plug-jack-35">3.5mm TRRS 4 pins male plug</a>, 2 @ Rp 12.500 | 25.000 |
+| <a href="https://www.tokopedia.com/optimuspri/joyseus-2-in-1-coiled-data-cable-1-m-micro-usb-type-c">Joyseus 2 in 1 coiled data cable 1M (micro USB & type C)</a> | 45.000 |
+| <a href="https://www.tokopedia.com/3mtapes/3m-sj-5306-bumpon-clear">3M SJ-5306 Bumpon Clear</a> | 45.000 |
 
-*Some items were purcashed more than the need for spare/stockpile.*
+*Shipping excluded. Some items were purcashed more than the need for spare/stockpile.*
 
 ### Build Logs
 
