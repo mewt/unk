@@ -2,6 +2,8 @@
 
 UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will be my endgame (I know it's a lie) keyboard. This is still a work-in-progress build logs.
 
+<img width="650" src="/assets/finished.png">
+
 ### Goals
 
 - Cheap (handwired)
@@ -128,4 +130,24 @@ While waiting for the magnet coil wire to be arrived, I made a pair of wrist res
 The TRRS cable was also being made.
 
 <img width="650" src="/assets/trrs-1.png">
+
+####20200627
+
+<img width="650" src="/assets/handwired-2.jpg">
+
+I forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
+
+<img width="650" src="/assets/magnet-shorted.png">
+
+Multimeter tool is a must here. I found an inverted diode and fixed it.
+
+<img width="650" src="/assets/multimeter-testing.png">
+
+Entering programming phase. I'm using deltasplit75 as base.
+
+<img width="650" src="/assets/firmware-testing.gif">
+
+Finished!
+
+<img width="650" src="/assets/finished.png">
 
