@@ -4,7 +4,7 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 
 <img width="650" src="/assets/finished.png">
 
-### Goals
+## Goals
 
 - Cheap 👎 
 - As thin as possible (thinner than Vortex Core) 👎 
@@ -14,7 +14,7 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 - Generic size of keycaps (combinations from 145 keycaps set should be fitted) ✅
 - Interchangeable middle modules (touchpad, trackball, smartphone dock) 👎 
 
-### Layout
+## Layout
 
 - Combined : http://www.keyboard-layout-editor.com/#/gists/457787e3b1938c4cbe9d65c7b7bd31ef
 - Left half: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
@@ -22,7 +22,7 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 
 <img src="/assets/layout.png">
 
-### Plate
+## Plate
 
 Download:
 - <a href="https://github.com/herpiko/unk/raw/master/unk-plate-layout.svg">SVG (Inkscape)</a>
@@ -30,7 +30,7 @@ Download:
 
 <img src="/assets/plate-design.png">
 
-### Parts
+## Parts
 
 | Item  | Price (rupiah) |
 | ------------- | -------------: |
@@ -56,26 +56,26 @@ Download:
 
 *Excluding shipping cost and wrong parts. Some items were purcashed more than the need for spare/stockpile.*
 
-### Build Logs
+## Build Logs
 
-#### 20200612
+### 20200612
 
 The wish was occured a loooooong time ago but I began to (seriously) design the keyboard from this date. I also started to purchase the parts that I need to build the keyboard.
 
-#### 20200615
+### 20200615
 
 Pro micro clones arrived. Small important things.
 
 <img width="650" src="/assets/promicro.png">
 
-#### 20200617
+### 20200617
 
 The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm. I'm a bit surprissed that these plates were quite heavy. Heavy (p)unk keyboard!
 
 <img width="650" src="/assets/plate-1.jpg">
 <img width="650" src="/assets/plate-3.jpg">
 
-#### 20200619
+### 20200619
 
 I put carbon-like sticker on the inner side of bottom plate to avoid shorting from the wiring.
 
@@ -85,7 +85,7 @@ Also there were four strong neodyum magnets to help the two parts stick together
 
 <img width="650" src="/assets/split-magnet.gif">
 
-#### 20200620
+### 20200620
 
 Handwired. Pardon my mediocre soldering skill.
 
@@ -93,14 +93,14 @@ Handwired. Pardon my mediocre soldering skill.
 
 <img width="650" src="/assets/pro-micro-testing.jpg">
 
-#### 20200622
+### 20200622
 
 Fully working left half. I was still playing with QMK firmware code.
 
 <img width="650" src="/assets/left-half-test-on-game.gif">
 
 
-#### 20299623
+### 20299623
 
 DO NOT USE SUPER GLUE TO GLUE YOUR SWITCHES TO THE PLATE.
 
@@ -114,13 +114,13 @@ Use hot glue instead. Hot glue is quite strong to hold your switches but very ea
 
 I've seen some videos of making handwired keyboard and got some idea for better handwiring. I'll be using ~~0.35mm magnet coil wire~~ single core copper wire.
 
-#### 20299624
+### 20299624
 
 I reglued the switches back into the plate using hot glue. Quite easy but messy. Note that you have to clean the "spider web" things from the hot glue. If this thing makes it way into your switch housing or the stabilizer, it'll makes it feels terrible.
 
 <img width="650" src="/assets/hot-glue.png">
 
-#### 20299625
+### 20299625
 
 While waiting for the wire to be arrived, I made a pair of wrist rest from an unused wrist rest.
 
@@ -132,7 +132,7 @@ The TRRS cable was also being made.
 
 <img width="650" src="/assets/trrs-1.png">
 
-#### 20200627
+### 20200627
 
 <img width="650" src="/assets/fully-handwired.jpg">
 
