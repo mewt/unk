@@ -133,7 +133,7 @@ The TRRS cable was also being made.
 
 ####20200627
 
-<img width="650" src="/assets/handwired-2.jpg">
+<img width="650" src="/assets/fully-handwired.jpg">
 
 I forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
 
