@@ -112,7 +112,7 @@ Because of my stupidity, I've to unplugged all the switches. I've to redo all th
 
 Use hot glue instead. Hot glue is quite strong to hold your switches but very easy to remove in case that you want to change some bad switches.
 
-I've seen some videos of making handwired keyboard and got some idea for better handwiring. I'll be using 0.35mm magnet coil wire.
+I've seen some videos of making handwired keyboard and got some idea for better handwiring. I'll be using ~~0.35mm magnet coil wire~~ single core copper wire.
 
 #### 20299624
 
@@ -122,7 +122,7 @@ I reglued the switches back into the plate using hot glue. Quite easy but messy.
 
 #### 20299625
 
-While waiting for the magnet coil wire to be arrived, I made a pair of wrist rest from an unused wrist rest.
+While waiting for the wire to be arrived, I made a pair of wrist rest from an unused wrist rest.
 
 <img width="650" src="/assets/wrist-rest-1.jpg">
 <img width="650" src="/assets/wrist-rest-2.jpg">
@@ -132,7 +132,7 @@ The TRRS cable was also being made.
 
 <img width="650" src="/assets/trrs-1.png">
 
-####20200627
+#### 20200627
 
 <img width="650" src="/assets/fully-handwired.jpg">
 
@@ -144,7 +144,7 @@ Multimeter tool is a must here. I found an inverted diode and fixed it.
 
 <img width="650" src="/assets/multimeter-testing.png">
 
-Entering programming phase. I'm using deltasplit75 as base.
+Entering programming phase. QMK is fun. I'm using deltasplit75 as the base.
 
 <img width="650" src="/assets/firmware-testing.gif">
 
