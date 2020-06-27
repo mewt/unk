@@ -6,7 +6,7 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 
 ### Goals
 
-- Cheap (handwired)
+- ~~Cheap (handwired)~~
 - ~~As thin as possible (thinner than Vortex Core)~~
 - Fully programmable (QMK)
 - Almost zero learning curve (horizontally staggered, ~ortholinear~, ~symbols through modifier/layer~)
