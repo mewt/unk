@@ -95,7 +95,7 @@ Handwired. Pardon my mediocre soldering skill.
 
 #### 20200622
 
-Fully working left half with modified <a href="https://github.com/herpiko/qmk_firmware/tree/uhk">DeltaSplit75 firmware code</a>.
+Fully working left half. I was still playing with QMK firmware code.
 
 <img width="650" src="/assets/left-half-test-on-game.gif">
 
