@@ -1,18 +1,18 @@
 # UNK
 
-UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will be my endgame (I know it's a lie) keyboard. This is still a work-in-progress build logs.
+UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will be my endgame (I know it's a lie) keyboard. ~~This is still a work-in-progress build logs.~~ <a href="https://github.com/herpiko/unk/blob/master/README.md#build-logs">The build logs is nearly complete</a>.
 
 <img width="650" src="/assets/finished.png">
 
 ### Goals
 
 - Cheap (handwired)
-- As thin as possible (thinner than Vortex Core)
+- ~~As thin as possible (thinner than Vortex Core)~~
 - Fully programmable (QMK)
 - Almost zero learning curve (horizontally staggered, ~ortholinear~, ~symbols through modifier/layer~)
 - Ergonomic as UHK (splitted)
 - Generic size of keycaps (combinations from 145 keycaps set should be fitted)
-- Interchangeable middle modules (touchpad, trackball, smartphone dock)
+- ~~Interchangeable middle modules (touchpad, trackball, smartphone dock)~~
 
 ### Layout
 
