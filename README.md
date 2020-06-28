@@ -185,7 +185,8 @@ Entering programming phase. QMK is fun. I'm using deltasplit75 as the base.
 Side views. You can see that the reset button is easy to reach with your nail.
 
 <img width="650" src="/assets/side-view.jpg">
-<img width="650" src="/assets/ports.jpg">
+<img width="650" src="/assets/side-view-2.jpg">
+
 
 
 Finished!
