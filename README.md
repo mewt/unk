@@ -30,6 +30,10 @@ Download:
 
 <img src="/assets/plate-design.png">
 
+## Anatomy
+
+<img src="/assets/anatomy.png">
+
 ## Parts
 
 | Item  | Price (rupiah) |
