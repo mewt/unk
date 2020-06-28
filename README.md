@@ -32,7 +32,7 @@ Download:
 
 ## Anatomy
 
-<img src="/assets/anatomy.png">
+<img src="/assets/component-anatomy.png">
 
 1. USB-C female to Micro USB male converter
 2. Pro Micro clone
