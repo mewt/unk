@@ -128,6 +128,13 @@ I've seen some videos of making handwired keyboard and got some idea for better 
 
 ### 20299624
 
+I need to cut out the height of the switches and stabilizer so I can push the  thickness limit of the keyboard. It'll be using 6mm spacer.
+
+<img width="650" src="/assets/switch-cut.jpg">
+
+<img width="650" src="/assets/stabilizer-cut.jpg">
+
+
 I reglued the switches back into the plate using hot glue. Quite easy but messy. Note that you have to clean the "spider web" things from the hot glue. If this thing makes it way into your switch housing or the stabilizer, it'll makes it feels terrible.
 
 <img width="650" src="/assets/hot-glue.png">
@@ -144,6 +151,9 @@ The TRRS cable was also being made.
 
 <img width="650" src="/assets/trrs-1.png">
 
+Turned out that the TRRS jack is too thick for 6mm spacer. I need to set apart the jack port from the PCB.
+<img width="650" src="/assets/components.png">
+
 ### 20200627
 
 <img width="650" src="/assets/fully-handwired.jpg">
@@ -155,6 +165,7 @@ I forgot that the neodyum magnet's coating is conductive so I put the sticker on
 Multimeter tool is a must here. I found an inverted diode and fixed it.
 
 <img width="650" src="/assets/multimeter-testing.png">
+<img width="650" src="/assets/inverted-diode.jpg">
 
 Entering programming phase. QMK is fun. I'm using deltasplit75 as the base.
 
