@@ -2,7 +2,7 @@
 
 UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will be my endgame (I know it's a lie) keyboard. ~~This is still a work-in-progress build logs.~~ <a href="https://github.com/herpiko/unk/blob/master/README.md#build-logs">The build logs is nearly complete</a>.
 
-<img width="650" src="/assets/finished.png">
+<img width="650" src="/assets/finished.png">/
 
 ## Goals
 
@@ -128,7 +128,7 @@ I've seen some videos of making handwired keyboard and got some idea for better 
 
 ### 20299624
 
-I need to cut out the height of the switches and stabilizer so I can push the  thickness limit of the keyboard. It'll be using 6mm spacer.
+Need to cut out the height of the switches and stabilizer so I can push the  thickness limit. It'll be using 6mm spacer.
 
 <img width="650" src="/assets/switch-cut.jpg">
 
@@ -158,7 +158,7 @@ Turned out that the TRRS jack is too thick for 6mm spacer. I need to set apart t
 
 <img width="650" src="/assets/fully-handwired.jpg">
 
-I forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
+Forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
 
 <img width="650" src="/assets/magnet-shorted.png">
 
