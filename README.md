@@ -128,7 +128,7 @@ I've seen some videos of making handwired keyboard and got some idea for better 
 
 ### 20299624
 
-Need to cut out the height of the switches and stabilizer so I can push the  thickness limit. It'll be using 6mm spacer.
+Need to cut out the height of the switches and stabilizer so I can push the  thickness limit. It'll be using 6mm spacer. The original uncut version is on the left.
 
 <img width="650" src="/assets/switch-cut.jpg">
 
