@@ -141,7 +141,7 @@ I reglued the switches back into the plate using hot glue. Quite easy but messy.
 
 ### 20299625
 
-While waiting for the wire to be arrived, I made a pair of wrist rest from an unused wrist rest.
+While waiting for the wire to be arrived, I made a pair of wrist rest from an unused one.
 
 <img width="650" src="/assets/wrist-rest-1.jpg">
 <img width="650" src="/assets/wrist-rest-2.jpg">
@@ -156,6 +156,14 @@ Turned out that the TRRS jack is too thick for 6mm spacer. I need to set apart t
 <img width="650" src="/assets/components.png">
 
 ### 20200627
+
+Bumpons added as rubber foots. Also another neodyum magnet to force the wrist rest stick with the board.
+
+<img width="650" src="/assets/bumpon.jpg">
+
+Components placements. Glued with super glue (except for the Pro micros)/
+
+<img width="650" src="/assets/components-2.jpg">
 
 Fully handwired.
 
@@ -173,6 +181,12 @@ Forgot that the neodyum magnet's coating is conductive so I put the sticker on t
 Entering programming phase. QMK is fun. I'm using deltasplit75 as the base.
 
 <img width="650" src="/assets/firmware-testing.gif">
+
+Side views. You can see that the reset button is easy to reach with your nail.
+
+<img width="650" src="/assets/side-view.jpg">
+<img width="650" src="/assets/ports.jpg">
+
 
 Finished!
 
