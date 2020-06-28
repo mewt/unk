@@ -66,8 +66,7 @@ The greens are on the top plate. The oranges are on the bottom.
 | <a href="https://www.tokopedia.com/optimuspri/joyseus-2-in-1-coiled-data-cable-1-m-micro-usb-type-c">Joyseus 2 in 1 coiled data cable 1M (micro USB & type C)</a> | 45.000 |
 | <a href="https://www.tokopedia.com/3mtapes/3m-sj-5306-bumpon-clear">3M SJ-5306 Bumpon Clear</a> | 18.000 |
 
-*Excluding shipping cost and wrong parts. Some items were purcashed more than the need for spare/stockpile. If the whole things counted, it reached almost 2 millions rupiah. *
-
+*The list is excluding shipping cost and wrong parts. Some items were purcashed more than the need for spare/stockpile. If the whole things counted, it reached almost 2 million rupiahs*
 ## Build Logs
 
 ### 20200612
