@@ -2,17 +2,17 @@
 
 UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ultimatehackingkeyboard.com/">UHK</a>. Hope this will be my endgame (I know it's a lie) keyboard. ~~This is still a work-in-progress build logs.~~ <a href="https://github.com/herpiko/unk/blob/master/README.md#build-logs">The build logs is nearly complete</a>.
 
-<img width="650" src="/assets/finished.png">/
+<img width="650" src="/images/finished.png">/
 
 ## Goals
 
-- Cheap 👎 
-- As thin as possible (thinner than Vortex Core) 👎 
-- Fully programmable (QMK) ✅ 
+- Cheap 👎
+- As thin as possible (thinner than Vortex Core) 👎
+- Fully programmable (QMK) ✅
 - Almost zero learning curve (horizontally staggered, ~ortholinear~, ~symbols through modifier/layer~) ✅
 - Ergonomic as UHK (splitted) ✅
 - Generic size of keycaps (combinations from 145 keycaps set should be fitted) ✅
-- Interchangeable middle modules (touchpad, trackball, smartphone dock) 👎 
+- Interchangeable middle modules (touchpad, trackball, smartphone dock) 👎
 
 ## Layout
 
@@ -20,7 +20,7 @@ UNK stands for Ultimate Ngoprek Keyboard, my own version of <a href="https://ult
 - Left half: http://www.keyboard-layout-editor.com/#/gists/f117f3cbc2d0b1bf17206992068f9017
 - Right half: http://www.keyboard-layout-editor.com/#/gists/e9e79566d1be71f77f1f2d33660011e5
 
-<img src="/assets/layout.png">
+<img src="/images/layout.png">
 
 ## Plate
 
@@ -28,11 +28,11 @@ Download:
 - <a href="https://github.com/herpiko/unk/raw/master/unk-plate-layout.svg">SVG (Inkscape)</a>
 - ~~<a href="https://github.com/herpiko/ultimate-ngoprek-keyboard/raw/master/split-full-final-cut.ai">Adobe Illustrator</a>~~
 
-<img src="/assets/plate-design.png">
+<img src="/images/plate-design.png">
 
 ## Anatomy
 
-<img src="/assets/component-anatomy.png">
+<img src="/images/component-anatomy.png">
 
 The greens are on the top plate. The oranges are on the bottom.
 
@@ -82,38 +82,38 @@ The wish was occured a loooooong time ago but I began to (seriously) design the 
 
 Pro micro clones arrived. Small important things.
 
-<img width="650" src="/assets/promicro.png">
+<img width="650" src="/images/promicro.png">
 
 ### 20200617
 
 The plates arrived. The top plate's thickness is 1.5mm and the bottom plate is 2mm. I'm a bit surprissed that these plates were quite heavy. Heavy (p)unk keyboard!
 
-<img width="650" src="/assets/plate-1.jpg">
-<img width="650" src="/assets/plate-3.jpg">
+<img width="650" src="/images/plate-1.jpg">
+<img width="650" src="/images/plate-3.jpg">
 
 ### 20200619
 
 I put carbon-like sticker on the inner side of bottom plate to avoid shorting from the wiring.
 
-<img width="650" src="/assets/split-magnet.png">
+<img width="650" src="/images/split-magnet.png">
 
 Also there were four strong neodyum magnets to help the two parts stick together.
 
-<img width="650" src="/assets/split-magnet.gif">
+<img width="650" src="/images/split-magnet.gif">
 
 ### 20200620
 
 Handwired. Pardon my mediocre soldering skill.
 
-<img width="650" src="/assets/handwired.png">
+<img width="650" src="/images/handwired.png">
 
-<img width="650" src="/assets/pro-micro-testing.jpg">
+<img width="650" src="/images/pro-micro-testing.jpg">
 
 ### 20200622
 
 Fully working left half. I was still playing with QMK firmware code.
 
-<img width="650" src="/assets/left-half-test-on-game.gif">
+<img width="650" src="/images/left-half-test-on-game.gif">
 
 
 ### 20299623
@@ -124,7 +124,7 @@ Oh boy, just don't. I'm a big fan of super glue as it's very versatile, strong a
 
 Because of my stupidity, I've to unplugged all the switches. I've to redo all the works that has been done on switches: matrix soldering and gluing. Plentiful of switches become the victims. Huft!
 
-<img width="650" src="/assets/unplugged-switches.jpg">
+<img width="650" src="/images/unplugged-switches.jpg">
 
 Use hot glue instead. Hot glue is quite strong to hold your switches but very easy to remove in case that you want to change some bad switches.
 
@@ -136,66 +136,66 @@ I've seen some videos of making handwired keyboard and got some idea for better 
 
 Need to cut out the height of the switches and stabilizer so I can push the  thickness limit. It'll be using 6mm spacer. The original uncut version is on the left.
 
-<img width="650" src="/assets/switch-cut.jpg">
+<img width="650" src="/images/switch-cut.jpg">
 
-<img width="650" src="/assets/stabilizer-cut.jpg">
+<img width="650" src="/images/stabilizer-cut.jpg">
 
 
 I reglued the switches back into the plate using hot glue. Quite easy but messy. Note that you have to clean the "spider web" things from the hot glue. If this thing makes it way into your switch housing or the stabilizer, it'll makes it feels terrible.
 
-<img width="650" src="/assets/hot-glue.png">
+<img width="650" src="/images/hot-glue.png">
 
 ### 20299625
 
 While waiting for the wire to be arrived, I made a pair of wrist rest from an unused one.
 
-<img width="650" src="/assets/wrist-rest-1.jpg">
-<img width="650" src="/assets/wrist-rest-2.jpg">
-<img width="650" src="/assets/wrist-rest-3.jpg">
+<img width="650" src="/images/wrist-rest-1.jpg">
+<img width="650" src="/images/wrist-rest-2.jpg">
+<img width="650" src="/images/wrist-rest-3.jpg">
 
 The TRRS cable was also being made.
 
-<img width="650" src="/assets/trrs-1.png">
+<img width="650" src="/images/trrs-1.png">
 
 Turned out that the TRRS jack is too thick for 6mm spacer. I need to set apart the jack port from the PCB.
 
-<img width="650" src="/assets/components.png">
+<img width="650" src="/images/components.png">
 
 ### 20200627
 
 Components placements. Glued with super glue (except for the Pro micros)/
 
-<img width="650" src="/assets/components-2.jpg">
+<img width="650" src="/images/components-2.jpg">
 
 Fully handwired.
 
-<img width="650" src="/assets/fully-handwired.jpg">
+<img width="650" src="/images/fully-handwired.jpg">
 
 Bumpons added as rubber foots. Also another neodyum magnet to force the wrist rest stick with the board.
 
-<img width="650" src="/assets/bumpon.jpg">
+<img width="650" src="/images/bumpon.jpg">
 
 Multimeter tool is a must here. I found an inverted diode and fixed it.
 
-<img width="650" src="/assets/multimeter-testing.png">
-<img width="650" src="/assets/inverted-diode.jpg">
+<img width="650" src="/images/multimeter-testing.png">
+<img width="650" src="/images/inverted-diode.jpg">
 
 Forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
 
-<img width="650" src="/assets/magnet-shorted.png">
+<img width="650" src="/images/magnet-shorted.png">
 
 Entering programming phase. QMK is fun. I'm using deltasplit75 as the base.
 
-<img width="650" src="/assets/firmware-testing.gif">
+<img width="650" src="/images/firmware-testing.gif">
 
 Side views. You can see that the reset button is easy to reach with your nail.
 
-<img width="650" src="/assets/side-view.jpg">
-<img width="650" src="/assets/side-view-2.jpg">
+<img width="650" src="/images/side-view.jpg">
+<img width="650" src="/images/side-view-2.jpg">
 
 
 
 Finished!
 
-<img width="650" src="/assets/finished.png">
+<img width="650" src="/images/finished.png">
 
