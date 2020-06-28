@@ -34,6 +34,8 @@ Download:
 
 <img src="/assets/component-anatomy.png">
 
+The greens are on the top plate. The oranges are on the bottom.
+
 1. USB-C female to Micro USB male converter
 2. Pro Micro clone
 3. Tactile switch
