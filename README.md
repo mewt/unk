@@ -112,6 +112,24 @@ $ sudo avrdude -p atmega32u4 -c avr109 -U ./.build/unk_rev1_default.hex -P /dev/
 - `Layer` + `1` to switch to Qwerty layout
 - `Layer` + `2` to switch to Colemak layout
 
+## Useful links
+
+The sources I read for building this keyboard:
+
+- Keyboard layout editor, http://www.keyboard-layout-editor.com/
+- Plate builder, http://builder.swillkb.com/
+- Laser cutting service, https://lasergist.com/shop/lasergist/
+- Pro micro official guides/FAQ, https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
+- Handwiring split guide based on lets_split, https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html
+- Handwiring guide, https://geekhack.org/index.php?topic=87689.0
+- https://www.reddit.com/r/olkb/comments/5s8q76/help_pro_micro_pinout_for_qmk/
+- Thinkpad trackpoint, https://electronics.stackexchange.com/questions/189790/determining-trackpoint-pinout
+- Pro micro built-in LEDs, https://www.electronicsweekly.com/blogs/engineer-in-wonderland/arduino-micro-direct-access-board-leds-2017-08/
+- TRRS in  Pro Micro + QMK, https://beta.docs.qmk.fm/using-qmk/hardware-features/feature_split_keyboard
+- Blackberry trackpad, https://vlukash.com/2019/01/15/trackpad-in-keycap-corne-crkbd-keyboard/
+- Adding layers, https://thomasbaart.nl/2018/12/06/qmk-basics-how-to-add-a-layer-to-your-keymap/
+- Layers, https://jayliu50.github.io/qmk-cheatsheet/
+
 ## Build Logs
 
 ### 20200612
