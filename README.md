@@ -152,20 +152,23 @@ The TRRS cable was also being made.
 <img width="650" src="/assets/trrs-1.png">
 
 Turned out that the TRRS jack is too thick for 6mm spacer. I need to set apart the jack port from the PCB.
+
 <img width="650" src="/assets/components.png">
 
 ### 20200627
 
+Fully handwired.
+
 <img width="650" src="/assets/fully-handwired.jpg">
-
-Forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
-
-<img width="650" src="/assets/magnet-shorted.png">
 
 Multimeter tool is a must here. I found an inverted diode and fixed it.
 
 <img width="650" src="/assets/multimeter-testing.png">
 <img width="650" src="/assets/inverted-diode.jpg">
+
+Forgot that the neodyum magnet's coating is conductive so I put the sticker on these too.
+
+<img width="650" src="/assets/magnet-shorted.png">
 
 Entering programming phase. QMK is fun. I'm using deltasplit75 as the base.
 
