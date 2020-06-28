@@ -157,10 +157,6 @@ Turned out that the TRRS jack is too thick for 6mm spacer. I need to set apart t
 
 ### 20200627
 
-Bumpons added as rubber foots. Also another neodyum magnet to force the wrist rest stick with the board.
-
-<img width="650" src="/assets/bumpon.jpg">
-
 Components placements. Glued with super glue (except for the Pro micros)/
 
 <img width="650" src="/assets/components-2.jpg">
@@ -168,6 +164,10 @@ Components placements. Glued with super glue (except for the Pro micros)/
 Fully handwired.
 
 <img width="650" src="/assets/fully-handwired.jpg">
+
+Bumpons added as rubber foots. Also another neodyum magnet to force the wrist rest stick with the board.
+
+<img width="650" src="/assets/bumpon.jpg">
 
 Multimeter tool is a must here. I found an inverted diode and fixed it.
 
