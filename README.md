@@ -67,6 +67,11 @@ The greens are on the top plate. The oranges are on the bottom.
 | <a href="https://www.tokopedia.com/3mtapes/3m-sj-5306-bumpon-clear">3M SJ-5306 Bumpon Clear</a> | 18.000 |
 
 *The list is excluding shipping cost and wrong parts those I purchased. Some items were purcashed more than the need for spare/stockpile. If the whole things counted, it reached almost 2 million rupiahs.*
+
+## Firmware
+
+TO BE WRITTEN.
+
 ## Build Logs
 
 ### 20200612
