@@ -34,6 +34,12 @@ Download:
 
 <img src="/assets/anatomy.png">
 
+1. USB-C female to Micro USB male converter
+2. Pro Micro clone
+3. Tactile switch
+4. TRRS jack
+5. Neodyum magnets
+
 ## Parts
 
 | Item  | Price (rupiah) |
