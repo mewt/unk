@@ -2,9 +2,9 @@
 
 A split 70% keyboard made by herpiko.
 
-* Keyboard Maintainer: [xyxjj](https://github.com/herpiko)
+* Keyboard Maintainer: [herpiko](https://github.com/herpiko)
 * Hardware Supported: Pro Micro
-* Hardware Availability: DIY
+* Hardware Availability: -
 
 Make example for this keyboard (after setting up your build environment):
 
