@@ -122,6 +122,8 @@ Because of my stupidity, I've to unplugged all the switches. I've to redo all th
 
 Use hot glue instead. Hot glue is quite strong to hold your switches but very easy to remove in case that you want to change some bad switches.
 
+I'll use super glue only to things that need strong hold on the plate like USB-C port. reset tactile switch,  TRRS jack.
+
 I've seen some videos of making handwired keyboard and got some idea for better handwiring. I'll be using ~~0.35mm magnet coil wire~~ single core copper wire.
 
 ### 20299624
