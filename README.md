@@ -78,7 +78,7 @@ $ ./util/qmk_install.sh
 
 Then copy the UNK firmware directory to QMK
 ```
-$ cp -vR /path/to/ultimate-ngoprek-keyboard/firmware keyboards/unk
+$ cp -vR /path/to/unk/firmware keyboards/unk
 ```
 
 ### Compile
